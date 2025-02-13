@@ -16,7 +16,10 @@
 # Rémi github : https://github.com/Lakpoh/WaveSync 
 # Signature : https://github.com/szimek/signature_pad.git
 
-# -------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+###### me: I want you to explain me how SEO works. 1. After hosting my website(html, css, js) on firebase or hostinger, how can I activate the SEO? 
+
 Great question! Let me break down how SEO works and how you can optimize your website after hosting it on platforms like Firebase or Hostinger.
 
 ### 1. **SEO Overview**:
