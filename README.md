@@ -19,7 +19,7 @@
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###### me: I want you to explain me how SEO works. 1. After hosting my website(html, css, js) on firebase or hostinger, how can I activate the SEO? 
-
+```
 Great question! Let me break down how SEO works and how you can optimize your website after hosting it on platforms like Firebase or Hostinger.
 
 ### 1. **SEO Overview**:
@@ -126,4 +126,4 @@ After making these changes, you’ll want to track your SEO progress:
 ### Conclusion:
 After hosting your website, activating SEO is about ensuring search engines can crawl, index, and understand your site’s content. By using Google Search Console, optimizing your on-page content, improving page speed, making your site mobile-friendly, and building quality content, you'll set your site up for SEO success.
 
-Would you like more details on any of these specific steps?
+Would you like more details on any of these specific steps?```
