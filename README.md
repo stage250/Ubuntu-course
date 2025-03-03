@@ -1,8 +1,8 @@
 # ,n
 - https://theresanaiforthat.com/ pepite.
-- Gigapixel AI
-- Rivet AI
-- playground ai
+- https://www.ffdn.org/fr/membres
+- https://www.terrenourriciere.org/
+- https://smile.eu/fr
 - twogether ai
 - magnific ai
 - atticus ai
