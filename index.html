@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Sound Amplifier</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div>
+    <h1>Welcome to Our Sound Amplifier Calculator!</h1>
+    <p>We help you calculate the amplification needed to reach the sound pressure level (SPL) you desire.</p>
+  </div>
+  <div>
+    <form>
+      <label>Enter the Sensivity of your speaker (in Decibels)</label>
+      <input placeholder="90" id="sensitivity">
+      <br>
+      <label>Enter the current Power of your speaker (in Watts)</label>
+      <input placeholder="1" id="currentPower">
+      <br>
+      <label>Enter the Sound Pressure Level you desire (in Decibels)</label>
+      <input placeholder="100" id="spl">
+      <br>
+      <label>Enter your desired Distance (in Meters)</label>
+      <input placeholder="10" id="distance"> 
+    </form>
+    <button id="submit">Send</button>
+    <p id="amplify"></p>
+  </div>
+  
+  
+
+</body>
+<script src="script.js"></script>
+</html>
